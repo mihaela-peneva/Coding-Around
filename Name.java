@@ -3,4 +3,7 @@ public class Name {
   public Name(String name) {
     myName = name;
   }
+  public String getName() {
+    return myName;
+  }
 }
